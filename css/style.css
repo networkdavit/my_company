@@ -167,9 +167,9 @@ section {
 	-ms-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
-.navbar-default .navbar-brand {
-	background-image: url(../img/logo.png);
-}
+/*.navbar-default .navbar-brand {
+	background-image: url(../img/logo.png);*/
+/*}
 .navbar-shrink .navbar-brand {
 	background-image: url(../img/logo.png);
 }
@@ -179,7 +179,7 @@ section {
 .navbar-inverse .navbar-brand {
 	background-image: url(../img/logo.png);
 }
-
+*/
 /* Navbar links */
 .navbar-nav > li > a {
 	padding: 24px 0;
@@ -220,11 +220,11 @@ section {
 
 /* Navbar fixed */
 .navbar-fixed-top .container {
-	-webkit-transition: all 0.2s ease-in-out;
-	-moz-transition: all 0.2s ease-in-out;
-	-o-transition: all 0.2s ease-in-out;
-	-ms-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out;
+	-webkit-transition: all 0.1s ease-in-out;
+	-moz-transition: all 0.1s ease-in-out;
+	-o-transition: all 0.1s ease-in-out;
+	-ms-transition: all 0.1s ease-in-out;
+	transition: all 0.1s ease-in-out;
 }
 
 .navbar-shrink {
