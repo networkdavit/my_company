@@ -128,7 +128,7 @@ section {
 
 /* ===== Begin text colors ===== */
 .text-main { color: #363940; } /* Theme main color */
-.text-white { color: #FFDB3B; }
+.text-yellow { color: #FFDB3B; }
 .text-off-white { color: #e7e7e7;}
 .text-dark { color: #000; }
 
@@ -167,19 +167,19 @@ section {
 	-ms-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
-/*.navbar-default .navbar-brand {
-	background-image: url(../img/logo.png);*/
-/*}
+.navbar-default .navbar-brand {
+	background-image: url(../img/new.png);
+}
 .navbar-shrink .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../img/new.png);
 }
-.navbar-transparent .navbar-brand {
-	background-image: url(../img/logo.png);
-}
+/*.navbar-transparent .navbar-brand {
+	background-image: url(../img/new.png);
+}*/
 .navbar-inverse .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../img/new.png);
 }
-*/
+
 /* Navbar links */
 .navbar-nav > li > a {
 	padding: 24px 0;
@@ -248,7 +248,7 @@ section {
 }
 
 /* Navbar transparent */
-.navbar-transparent {
+/*.navbar-transparent {
 	background-color: rgba(0, 0, 0, 0);
 }
 .navbar-fixed-top.navbar-transparent .container {
@@ -264,7 +264,7 @@ section {
 }
 .navbar-transparent .navbar-brand, .navbar-transparent .navbar-brand:focus {
 	color: #FFF;
-}
+}*/
 /* ===== End navbar ===== */
 
 
